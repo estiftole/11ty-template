@@ -25,7 +25,7 @@ npm start
 
 ```text
 ├── src/
-│   ├── _data/      # Data
+│   ├── _data/          # Data
 │   ├── _includes/      # Layouts and UI components
 │   ├── assets/         # Static images, fonts, etc.
 │   ├── css/            # Stylesheets (passthrough to _site/css)
