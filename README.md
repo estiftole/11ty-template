@@ -6,7 +6,7 @@ A minimal, zero-dependency Eleventy (11ty) template structured with a `src/` dir
 
 ```bash
 # Clone the repository
-git clone -b scratch https://github.com/estiftole/11ty-template.git
+git clone -b main https://github.com/estiftole/11ty-template.git
 cd 11ty-template
 
 # Install dependencies
