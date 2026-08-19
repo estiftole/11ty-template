@@ -5,14 +5,14 @@ A minimal, zero-dependency Eleventy (11ty) template structured with a `src/` dir
 ## Quick Start
 
 ```bash
-Clone the repository
+# Clone the repository
 git clone -b scratch https://github.com/estiftole/11ty-template.git
 cd 11ty-template
 
-Install dependencies
+# Install dependencies
 npm install
 
-Start local server (http://localhost:8080)
+# Start local server (http://localhost:8080)
 npm start
 ```
 
